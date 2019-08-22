@@ -1,0 +1,27 @@
+body {
+    padding: 30px;
+}
+header * {
+    text-align: center;
+}
+
+#section__music {
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.warning {
+    color: red;
+}
+#music-list > div {
+    padding: 10px;
+    border-radius: 7px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    box-shadow: 3px 5px 7px 0px royalblue;
+}
+
+section > h2 {
+    text-align: center;
+}
